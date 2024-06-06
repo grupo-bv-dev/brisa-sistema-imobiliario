@@ -13,7 +13,7 @@ $pagina = @$_GET['pagina'];
 	<title><?php echo $nome_site; ?></title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<meta name="keywords" content="Sistema para Escritórios desenvolvido no curso do Hugo Vasconcelos do Portal Hugo Cursos" />
+	<meta name="keywords" content="Sistema para Imobiliario" />
 	<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 
 	<!-- Bootstrap Core CSS -->
