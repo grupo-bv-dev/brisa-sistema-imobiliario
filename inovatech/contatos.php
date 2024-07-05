@@ -78,7 +78,7 @@ include_once("cabecalho.php");
         </div>
     </div>
     <div class="cs-map">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15004.453961620837!2d-43.94841387071271!3d-19.919621785751325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa699e4e119a387%3A0xd00dc0b14abf3fc4!2sCentro%2C%20Belo%20Horizonte%20-%20MG!5e0!3m2!1spt-BR!2sbr!4v1593048428551!5m2!1spt-BR!2sbr" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1055.4906708563792!2d-60.68873801283673!3d2.815491978723211!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8d9305ae044aba01%3A0x7975ed476cf48c47!2sSecretaria%20Municipal%20de%20Tecnologia%20e%20Inclus%C3%A3o%20Digital%20-%20SMTI!5e0!3m2!1spt-BR!2sbr!4v1720188249508!5m2!1spt-BR!2sbr"  width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" ></iframe> 
     </div>
 </section>
 <!-- Contact Section End -->
